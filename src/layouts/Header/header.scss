@@ -1,0 +1,14 @@
+header {
+    height: 50vh;
+    position: sticky;
+    top: -40vh;
+    z-index: 100;
+    
+    .header-img {
+        height: 80%;
+        background-image: url('../../assets/img/header-img.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}

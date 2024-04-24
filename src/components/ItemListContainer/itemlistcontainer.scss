@@ -1,0 +1,15 @@
+/*Item List Container*/
+
+.item-list-container {
+    height: 100vh;
+    padding: 5%;
+    background-image: url('../../assets/img/welcome-img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    h1 {
+        flex: 0 0 30%;
+    }
+}
